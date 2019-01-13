@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnrealPortfolio", "UnrealPortfolio.vcxproj", "{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Debug|x64.ActiveCfg = Debug|x64
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Debug|x64.Build.0 = Debug|x64
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Debug|x86.Build.0 = Debug|Win32
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Release|x64.ActiveCfg = Release|x64
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Release|x64.Build.0 = Release|x64
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Release|x86.ActiveCfg = Release|Win32
+		{F79B2483-058C-47D9-A9F5-6D3AAA7DD75C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37FA023-3611-465C-9021-F650B3E26BC5}
+	EndGlobalSection
+EndGlobal
